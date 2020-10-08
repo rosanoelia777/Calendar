@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">paquitapp2</string>
+    <string name="timequestion_txt">¿Cuántos días faltan para tu examen de conducción?</string>
+    <string name="save_btn">Guardar</string>
+
+    <string name="days1_rbtn">más de 5 días</string>
+    <string name="days2_rbtn">más de 10 días</string>
+    <string name="days3_rbtn">más de 15 días</string>
+    <string name="days4_rbtn">más de 20 días</string>
+    <string name="todo">TODO</string>
+</resources>
